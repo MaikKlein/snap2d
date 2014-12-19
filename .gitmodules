@@ -1,0 +1,9 @@
+[submodule "ext/glfw"]
+	path = ext/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "ext/OglplusGen"]
+	path = ext/OglplusGen
+	url = https://github.com/MaikKlein/OglplusGen.git
+[submodule "ext/glm"]
+	path = ext/glm
+	url = https://github.com/g-truc/glm.git

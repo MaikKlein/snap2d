@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/maik/projects/cpptest/build",
+  "command": "/usr/bin/clang++    -std=c++1y -stdlib=libc++ -I/home/maik/projects/cpptest/ext/glm -I/home/maik/projects/cpptest/ext/oglplus/include -I/home/maik/projects/cpptest/ext/oglplus/_build/include -I/home/maik/projects/cpptest/ext/glfw/include    -o CMakeFiles/Test.dir/src/main.cpp.o -c /home/maik/projects/cpptest/src/main.cpp",
+  "file": "/home/maik/projects/cpptest/src/main.cpp"
+}
+]
